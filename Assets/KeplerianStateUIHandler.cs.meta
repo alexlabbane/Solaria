@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13ac71bd09fd2974e8e50b4be71f04dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - keplerianInput: {fileID: 5387763987810548929, guid: eeed5ab4f99686c419cd2f5313613ee2,
+      type: 3}
+  - cartesianInput: {fileID: 4257957483530088131, guid: fba6120e42680f04e80336521fee2acc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
