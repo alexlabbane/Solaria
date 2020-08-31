@@ -20,4 +20,4 @@ I am simply using an iterative technique, calculating the force of each object o
 
 # Download Solaria
 
-Go to the releases of GitHub to download a copy of Solaria to try for yourself! Experiment with adding bodies to a solar system and making all sorts of wacky things! I do have ideas for an improved version of this project in the future.
+Go to the releases on GitHub to download a copy of Solaria to try for yourself! Experiment with adding bodies to a solar system and making all sorts of wacky things! I do have ideas for an improved version of this project in the future.
